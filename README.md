@@ -1,0 +1,2 @@
+# Enhancing-the-Brain-Tumor-Detection-with-Transfer-Learning
+This repository contains information on developing and assessing the effectiveness of five distinct pre-trained models—ResNet50, Xception, EfficientNetV2-S, ResNet152V2, and VGG16—to enhance the efficiency of Magnetic Resonance Imaging (MRI) analysis to classify the brain tumor images into gliomas, meningiomas, pituitary tumors, and no tumors.
